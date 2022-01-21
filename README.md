@@ -29,7 +29,7 @@ dicas: <a href='https://t.me/poposbrasil' target='_blank'>https://t.me/poposbras
 
 ### <strong>🖥️ IDE</strong>
 
-![VS Code]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+![VS Code]<src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 ### <strong>‍💻 SO</strong>
 
