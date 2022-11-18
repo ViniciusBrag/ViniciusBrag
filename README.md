@@ -2,7 +2,6 @@
 <h3 align="center">A python backend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusBrag&label=Profile%20views&color=0e75b6&style=flat" alt="ViniciusBrag" /> </p>
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ViniciusBrag&repo=ViniciusBrag&countColorcountColor&countColor=%237B1E7A)
 
 - 🔭 I’m currently studying Python, Django, API, Docker, Linux.
 
