@@ -14,11 +14,21 @@ Pop!_OS</a>.
 Segue grupo do Telegram para suporte ou
 dicas: <a href='https://t.me/poposbrasil' target='_blank'>https://t.me/poposbrasil</a>
 
-### <strong>⌨ Linguagem</strong> ️
+ENG:
+Hi! I'm Vinicius Braga, I live in Goianésia - Brazil.
+<br>
+<br>
+
+My goal is to work in the Back-end area in Web Development, focusing on the Python language and the Django Framework.
+
+Exploring a bit of this world of Linux distributions, but at the moment I'm using the Pop!_OS distro.
+Follow the Telegram group for support or tips: <a href='https://t.me/poposbrasil' target='_blank'>https://t.me/poposbrasil</a>
+
+### <strong>⌨ Language </strong> ️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### <strong>🛠️ Ferramentas</strong>
+### <strong>🛠️ Tools </strong>
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -36,7 +46,7 @@ dicas: <a href='https://t.me/poposbrasil' target='_blank'>https://t.me/poposbras
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### ✉️ Contato
+### ✉️ Contact
 
 <a target='_blank' href='mailto:Vbragadev@gmail.com'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a target='_blank' href='https://t.me/ViniciusMBraga'>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
