@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently improving my knowledge in **Django**, **Django rest-framework** and **Linux**
 
-- 📫 How to reach me **vbragadev@gmail.com*
+- 📫 How to reach me **vbragadev@gmail.com**
 
 ### <strong>🛠️ Language and Tools </strong>
 
