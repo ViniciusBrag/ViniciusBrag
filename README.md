@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently studying Python, Django, API, Docker, Linux.
-- 
+
 - 🌱 I’m currently improving my knowledge in **Django**, **Django rest-framework** and **Linux**
 
 - 📫 How to reach me **vbragadev@gmail.com*
