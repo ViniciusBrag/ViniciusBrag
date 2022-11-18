@@ -18,7 +18,6 @@ ENG:
 Hi! I'm Vinicius Braga, I live in Goianésia - Brazil.
 <br>
 <br>
-
 My goal is to work in the Back-end area in Web Development, focusing on the Python language and the Django Framework.
 
 Exploring a bit of this world of Linux distributions, but at the moment I'm using the Pop!_OS distro.
